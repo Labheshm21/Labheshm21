@@ -182,7 +182,7 @@ Focus: **Distributed Systems, Software Engineering**
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Labheshm21-181717?style=for-the-badge&logo=github)](https://github.com/Labheshm21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile%20URL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile%20URL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/labheshmahajan/)
 [![Email](https://img.shields.io/badge/Email-labheshmahajan01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labheshmahajan01@gmail.com)
 
 </div>
