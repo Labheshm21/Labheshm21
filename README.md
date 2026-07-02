@@ -22,7 +22,6 @@ I'm a Computer Science graduate student at **Worcester Polytechnic Institute**, 
 - &#129302; Building with **RAG, LangChain, LangGraph, OpenAI, Gemini, and agent workflows**
 - &#9889; Interested in **distributed systems, scalability, reliability, and AI product engineering**
 - &#127919; Goal: Build practical AI tools that are reliable, observable, and useful in the real world
-- &#128231; Email: **labheshmahajan01@gmail.com**
 
 ---
 
@@ -181,9 +180,8 @@ Focus: **Distributed Systems, Software Engineering**
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Labheshm21-181717?style=for-the-badge&logo=github)](https://github.com/Labheshm21)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Add%20Profile%20URL-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/labheshmahajan/)
-[![Email](https://img.shields.io/badge/Email-labheshmahajan01%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:labheshmahajan01@gmail.com)
+[![github](https://img.shields.io/badge/github-labheshm21-181717?style=for-the-badge&logo=github)](https://github.com/Labheshm21)
+[![linkedin](https://img.shields.io/badge/linkedin-labhesh%20mahajan%20linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/labheshmahajan/)
 
 </div>
 
